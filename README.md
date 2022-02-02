@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @niteshsingh29
 - 👀 I’m a Frontend Developer at ProLance IT
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ...
-- 📫  You can reach me on niteshsingh29072000a@gmail.com
+- 💞️ I’m looking to collaborate on open source
+- 📫  You can reach me on nksingh.2907@gmail.com / 7990063949
 
 <!---
 niteshsingh29/niteshsingh29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
