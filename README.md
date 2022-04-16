@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [Chat web-app](https://github.com/dkPathan/my-node-app.git)
 
-- 🌱 I’m currently learning **MERN**
-
 - 👨‍💻 All of my projects are available at [portfolio](http://niteshsingh.infinityfreeapp.com)
 
 - 💬 Ask me about **react, node**
