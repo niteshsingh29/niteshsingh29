@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [http://neelamtech.infinityfreeapp.com](http://neelamtech.infinityfreeapp.com)
+- 👨‍💻 All of my projects are available at [portfolio](http://niteshsingh.infinityfreeapp.com)
 
 - 💬 Ask me about **react, node**
 
