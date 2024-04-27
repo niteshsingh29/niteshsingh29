@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nitesh2907" target="blank"><img src="https://img.shields.io/twitter/follow/nitesh2907?logo=twitter&style=for-the-badge" alt="nitesh2907" /></a> </p>
 
-- 🔭 I’m currently working on [Chat web-app](https://github.com/dkPathan/my-node-app.git)
+- 🔭 I’m currently working in ProExelancers.
 
 - 👨‍💻 All of my projects are available at [portfolio](http://niteshsingh.infinityfreeapp.com)
 
