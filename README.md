@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](http://niteshsingh.infinityfreeapp.com)
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **Web Development, Reverse Engineering and Prompt Engineering**
 
 - 📫 How to reach me **nksingh.2907@gmail.com**
 
